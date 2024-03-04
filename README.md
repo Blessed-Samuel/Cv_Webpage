@@ -27,6 +27,9 @@ To get started with this project, you can simply fork or clone the repository an
 
 If you'd like to contribute to this project, you can fork the repository, make your changes, and submit a pull request. You can also open an issue if you have any suggestions or feedback.
 
+#License 
+For any inquiries or support, please contact us at samuelalisigwe22@gmail.com
+
 ## Acknowledgments
 
 - [GitHub Pages](https://pages.github.com/)
